@@ -6,24 +6,24 @@
 # Datatypes (KEYWORD1)
 ###########################################
 
-AERobot  KEYWORD1
+AERobot	KEYWORD1
 
 ###########################################
 # Methods and Functions (KEYWORD2)
 ###########################################
-setLED KEYWORD2
-ledControl KEYWORD2
-move_forward KEYWORD2
-move_ccw KEYWORD2
-rotate_ccw KEYWORD2
-move_cw KEYWORD2
-rotate_cw KEYWORD2
-move_backward KEYWORD2
-move_stop KEYWORD2
-move KEYWORD2
-load_calibration KEYWORD2
-initAERobot KEYWORD2
-lightSens KEYWORD2
-distSens KEYWORD2
-bumpSens KEYWORD2
-lineSens KEYWORD2
+setLED	KEYWORD2
+ledControl	KEYWORD2
+move_forward	KEYWORD2
+move_ccw	KEYWORD2
+rotate_ccw	KEYWORD2
+move_cw	KEYWORD2
+rotate_cw	KEYWORD2
+move_backward	KEYWORD2
+move_stop	KEYWORD2
+move	KEYWORD2
+load_calibration	KEYWORD2
+initAERobot	KEYWORD2
+lightSens	KEYWORD2
+distSens	KEYWORD2
+bumpSens	KEYWORD2
+lineSens	KEYWORD2
